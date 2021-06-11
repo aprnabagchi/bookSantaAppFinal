@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "booksantaappjai",
+    "slug": "snack-85fcdf40-dbfc-4bca-9e80-ef4da20a5e19",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "c-88 Jai"
+  }
+}
